@@ -41,3 +41,29 @@ yarn start
 yarn build
 ```
 
+
+## 欢迎贡献
+项目需要大家的支持，期待更多小伙伴的贡献，你可以：
+- 提建议或 Bug：[反馈平台](https://support.qq.com/products/383145)
+- 在 GitHub 上提交你的项目
+
+## 联系作者
+![联系作者](./assets/images/contactme.jpg)
+
+## 公益捐赠
+![公益捐赠](./assets/images/wechat_pay.jpg)
+
+## 致谢
+蔡俊锋 王梓澔 田家明 欧阳婷婷
+
+## Contributors ✨
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://blog.csdn.net/caijunfen"><img src="https://avatars.githubusercontent.com/u/18321599?v=4?s=100" width="100px;" alt=""/><br /><sub><b>腾讯全栈开发  IT-CJF</b></sub></a><br /><a href="https://github.com/liyupi/code-nav/commits?author=jwcjf" title="Code">💻</a></td>
+   
+  </tr>
+</table>
